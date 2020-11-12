@@ -5,7 +5,7 @@
  */
 
 /**
- * @file parameters.h
+ * @file runtime_parameters.h
  * @author Glenn Toews
  * @date 12 Nov 2020
  * @brief This file defines parameters which are generated during runtime
